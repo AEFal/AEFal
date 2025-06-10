@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on snow and sea ice ❄
 - 📫 How to reach me: alicia.fallows.24@ucl.ac.uk
 - 😄 Pronouns: she/her 
-- 
+
 <!--
 **AEFal/AEFal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
